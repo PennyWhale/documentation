@@ -19,6 +19,6 @@ Feature, bug, and hotfix branch names are formatted as follows: `feature/3092690
 After completing a task, push that branch to github and open a pull request requesting to merge that branch with **develop**. Once it's merged in, we'll mark that task as complete.
 
 
-## Payment
+## Payment, what we expect, and what you can expect
 
-You'll be paid once every two weeks for all work completed in the past two weeks (at least 20 hours). 
+We expect you to work at least 10 hours a week. If you want more work, we'll be happy to increase the size of the sprint. You'll be paid once every two weeks for all work completed in the past two weeks (at least 20 hours). 
